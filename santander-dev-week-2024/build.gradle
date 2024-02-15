@@ -29,7 +29,7 @@ dependencies {
 }
 tasks.jar{
 	manifest{
-		attributes["Main-Class"] = "me.dio.SantanderDevWeek2024Application"
+		attributes["Main-Class"] = "C:\\Users\\vitor\\Santander\\santander-dev-week-2024\\src\\main\\java\\me\\dio\\SantanderDevWeek2024Application.java"
 	}
 }
 tasks.named('test') {
